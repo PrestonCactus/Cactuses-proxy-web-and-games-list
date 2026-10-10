@@ -1,5 +1,5 @@
 # proxy-list
-a few proxies lists and working proxies hosted on google scripts.
+a few proxy lists and working proxies hosted on google scripts. (works onyl fo you have a FCPS laptop)
 
 **(Tung)**
 
