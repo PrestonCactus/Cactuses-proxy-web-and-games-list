@@ -25,5 +25,12 @@ https://script.google.com/a/macros/fcpsschools.net/s/AKfycbw-OY94152YFzIgu77pKYe
 https://script.google.com/a/macros/fcpsschools.net/s/AKfycbzHdWLK5giGTU2yiMhzvZpLKlvljq9b-QyjIv_PnzaVvVwRxjuMYo-iqOMlj7V21a-1/exec
 ```
 
+**Astral**
+
+```bash
+https://script.google.com/a/macros/fcpsschools.net/s/AKfycbwUBZaMdCgDUEt9GA9dLiwD_RFP7-QB-JBuzOwjPjU6x1VibCtCZm4vST_P6qjKzFA4/exec
+```
+
+
 # DISCLAIMER
 I don't promote doing anything illegal on these proxies, this is all for educational purposes.
