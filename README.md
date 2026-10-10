@@ -16,3 +16,6 @@ https://script.google.com/a/macros/fcpsschools.net/s/AKfycbw-OY94152YFzIgu77pKYe
 (Glim)
 
 https://script.google.com/a/macros/fcpsschools.net/s/AKfycbzHdWLK5giGTU2yiMhzvZpLKlvljq9b-QyjIv_PnzaVvVwRxjuMYo-iqOMlj7V21a-1/exec
+
+# DISCLAIMER
+I don't promote doing anything illegal on these proxies, this is all for educational purposes.
