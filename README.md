@@ -1,6 +1,20 @@
 # proxy-list
 a few proxy lists and working proxies hosted on google scripts. (google scripts only work if you have an fcps laptop)
 
+**(Nocturne)**
+
+```bash
+https://blooketassets.s3.us-east-2.amazonaws.com/index.html
+```
+
+**(Neo OS)**
+
+```bash
+https://neo-os-desktop-20260908.web.app/
+```
+
+# Google Script Proxies
+
 **(Tung)**
 
 ```bash
