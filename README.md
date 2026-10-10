@@ -25,7 +25,7 @@ https://script.google.com/a/macros/fcpsschools.net/s/AKfycbw-OY94152YFzIgu77pKYe
 https://script.google.com/a/macros/fcpsschools.net/s/AKfycbzHdWLK5giGTU2yiMhzvZpLKlvljq9b-QyjIv_PnzaVvVwRxjuMYo-iqOMlj7V21a-1/exec
 ```
 
-**Astral**
+**(Astral)**
 
 ```bash
 https://script.google.com/a/macros/fcpsschools.net/s/AKfycbwUBZaMdCgDUEt9GA9dLiwD_RFP7-QB-JBuzOwjPjU6x1VibCtCZm4vST_P6qjKzFA4/exec
