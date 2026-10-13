@@ -1,4 +1,7 @@
-# proxy-list
+# How to Use
+To use a proxy copy the link and paste it into your search engine. If you want to access the "fcps only" proxies you first need a laptop from fairfax county public schools, and need to go to the "fcps-only" branch.
+
+# proxy list
 
 **(Nocturne)**
 
